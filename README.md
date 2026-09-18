@@ -1,18 +1,12 @@
-# Description
+# Apartment rental frontend
 
-This project is the frontend for the apartment rental site
+Vite + React + TypeScript frontend for an apartment rental product (listings, search, accounts). The repo name is historical.
 
-# Quick Start
+## What is in here
 
-1. Install dependencies
+- Vite React TypeScript app
+- Listing/account UI under `src`
 
-```
-npm install
-```
+## Stack
 
-2. Configure `BACKEND_URL` and `API_URL` in `.env` file
-3. Run dev server
-
-```
-npm run dev
-```
+React, TypeScript, Vite
